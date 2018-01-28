@@ -12,10 +12,10 @@ $(document).ready(function() {
     }); 
 
     /* scroll*/
-    $('.js--scroll-to-plans').click(function( {
+    $('.js--scroll-to-plans').click(function () {
     	$('html, body').animate({scrollTop: $('js--scroll-to-plans').offset().top}, 1000);
     });
-	$('.js--scroll-to-start').click(function) () {
+	$('.js--scroll-to-start').click(function () {
     	$('html, body').animate({scrollTop: $('js--scroll-to-features').offset().top}, 1000);
     });
     /* navigation scroll*/
