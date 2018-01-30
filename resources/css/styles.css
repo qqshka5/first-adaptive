@@ -32,14 +32,14 @@ html {
     padding: 1%;
 }
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("/Users/hannavysotskaya/html/projects/udemy/Folder for udemy progect/anna/img/hero.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("img/hero.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
     background-attachment: fixed;
 }
 /*---------------------------------*/
-/*HADERS STYLE*/
+/*HEADERS STYLE*/
 /*----------------------------------*/
 h1, h2  {
     font-weight: 300;
@@ -371,7 +371,7 @@ transition: border-bottom 0.2s, color 0.2s;
 /*testimonials*/
 /*----------------------------------*/
 .section-testimonials {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("/Users/hannavysotskaya/html/projects/udemy/Folder for udemy progect/anna/img/back-customers.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img/back-customers.jpg");
     background-size: cover;
     color: white;
     background-attachment: fixed;
